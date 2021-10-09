@@ -1,0 +1,4 @@
+19:53:06.012 [main] DEBUG alpha.Log4jDemo - I have click on Button
+19:53:06.024 [main] INFO  alpha.Log4jDemo - Button is displayed
+19:53:06.024 [main] ERROR alpha.Log4jDemo - Button is not present
+19:53:06.024 [main] FATAL alpha.Log4jDemo - Button is missing

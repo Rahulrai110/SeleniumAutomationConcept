@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 3, Errors: 0, Skipped: 7, Time elapsed: 7.21 s <<< FAILURE! - in TestSuite
+Academy.HomePage.initialize  Time elapsed: 4.52 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: D:\Software\Selenium\chromedriverwin32\chromedriver.exe
+	at Academy.HomePage.initialize(HomePage.java:26)
+
+Academy.ValidateTitle.initialize  Time elapsed: 4.527 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: D:\Software\Selenium\chromedriverwin32\chromedriver.exe
+	at Academy.ValidateTitle.initialize(ValidateTitle.java:25)
+
+Academy.ValidateNavigationBar.initialize  Time elapsed: 4.527 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: D:\Software\Selenium\chromedriverwin32\chromedriver.exe
+	at Academy.ValidateNavigationBar.initialize(ValidateNavigationBar.java:26)
+
